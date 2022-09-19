@@ -1,4 +1,3 @@
-
 /**
  * Emma Dram
  * 8-23-22 (Tuesday)
@@ -35,7 +34,7 @@ public class chapter1Notes
         //not a basic basic data type - these are objects!
         String word = new String("word"); //series of chars
         Integer number = new Integer(47);
-        Double number2 = new Double(34.5)
+        Double number2 = new Double(34.5);
         
         
     }
